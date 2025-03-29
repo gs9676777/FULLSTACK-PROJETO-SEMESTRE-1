@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+.topic1,.topic2{
+    color: white;
+}
+.menu{
+    color: white;
+}
+.topic1:hover,.topic2:hover{
+    color: blue;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+ol{
+    color: white;
+}
+img{
+    border-color: white;
+}
+iframe{
+    border-color: white;
+   
+}
+.Homepage{
+    color: white;
+}
+
+#place{
+    color: white;
+}
+.Homepage:hover{
+    color: blue;
+}
+
+
+
+
